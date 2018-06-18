@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /home/belters/Desktop/Belters/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /home/belters/Desktop/Belters/src/obj/build.h :
