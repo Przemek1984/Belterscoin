@@ -1,0 +1,9 @@
+Building Belterscoin
+
+See doc/readme-qt.rst for instructions on building Belterscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Belterscoin.
+
+See doc/build-*.txt for instructions on building belterscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Belterscoin.
